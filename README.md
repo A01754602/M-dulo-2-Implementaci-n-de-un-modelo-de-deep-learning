@@ -2,6 +2,11 @@
 
 Este proyecto implementa una red neuronal convolucional (CNN) para la clasificación de imágenes de zapatos en cinco categorías: **Ballet Flat**, **Boat**, **Brogue**, **Clog** y **Sneaker**. Utiliza un dataset de clasificación de zapatos con aproximadamente 13,000 imágenes divididas en las clases mencionadas, optimizado para entrenar y evaluar modelos de deep learning en tareas de clasificación de imágenes.
 
+EL MODELO ES MUY PESADO EN KERAS, NO SE PUEDE SUBIR AL REPOSITORIO, EN FORMATO .H5 SI SE PUEDE
+
+
+
+
 ## Sobre el Dataset
 
 El dataset de imágenes de zapatos está dividido en 4 secciones: 
